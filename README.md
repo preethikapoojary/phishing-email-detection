@@ -42,6 +42,20 @@ This project was developed as part of my internship at the **Indian Institute of
 - Project Report
 - Presentation Slides
 
+## 📸 Project Screenshots
+
+### Gradio Interface
+![Gradio Interface](images/gradio-interface.png)
+
+### Confusion Matrix
+![Confusion Matrix](images/confusion-matrix.png)
+
+### Accuracy Comparison
+![Accuracy Comparison](images/accuracy-comparison.png)
+
+### Feature Importance
+![Feature Importance](images/feature-importance.png)
+
 ## 👩‍💻 Author
 
 **Preethika Poojary**  
